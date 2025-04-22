@@ -23,11 +23,15 @@ I don't want to keep track of it, so I'm happy they are
 - maybe different flavors of "improve"
 
 ## The Weird
+The author has a use case to "keep up with the news" and I think a lot of this falls into that category
 I guess this prompt is worth having
 https://github.com/danielmiessler/fabric/blob/main/patterns/explain_math/system.md
 
 ## Pattern Highlights
 ### improve_prompt
+https://github.com/derwiki/ai-lightning-talk-fabric/blob/main/unoptimized-prompt.md
+https://github.com/derwiki/ai-lightning-talk-fabric/blob/main/optimized-prompt.md
+:shrug:
 
 ### create_mermaid_visualization
 https://mermaid.live/edit#pako:eNqFU8ty2jAU_RWN1oTBL2y86EzAJKQFwiSki4ouVFuAJrbkynKmFPPvvcgG7MmiWumce3TfOuJYJgyHeKdovkfraCMQnHuykoWOqUrQnG9ZfIhThhaUp0z9RHd3X6pXJpICTTOgKjQmbwUYmqe1XVNdFugtT6hmFZpc_TWqiVFFXLFYG8do-sGELioUEXNDEdW0EUdGPAdPha51FZqSOkRHsuYZSGiWV-iBXEEn5FrR-J2L3TXeI3lhRS5FwdohH43Y1IcmUmgTc0ZqYiyTQ6ObGd2DktmlGU_khhrRkxEtefwuaAbd-Eou907PZlQkKYOuKiUVZPaNmBsyPKQM4lpelL_qcdWdWh9yVtSW80lMU7kUaD2-sVOLrBSHQi4TMKRNzFA7nEMilvIPprq0C33SpRJd1qtzbChYikuOZiAQtYPsDnI6yO0g71OtE5ll0IhmC_9X7pzcJwlqreX5LMgr34kyb1FL8p0pvuWdqp6bxi-lBlNMz95b5hWZsTRHL-x3CQv2uXQzTTRvg0UbLNvguQ1WZxe4B5-RJzjUqmQ9nDEFqwQQH8_SDdZ7lrENDuGasC0tU73BG3GCZzkVP6TMLi-VLHd7HG5pWgAqzVeMOIV23iSQNlMTWQqNQ8vyjQ8cHvEfHA76ru3YvjVyRr7nDUbDYQ8fcBj4_cB2gqE7dO2Ba42CUw__NVEHfd-3Hc_yvVHgu07gWqd_cH5NuQ
